@@ -1,0 +1,16 @@
+[{
+    "fn": "Ash",
+    "em": "ash@gmail.com",
+    "psw": "123456",
+    "phr": "users\/0.jpg"
+}, {
+    "fn": "Tay",
+    "em": "tayo@gmail.com",
+    "psw": "12s345t",
+    "phr": "users\/1.jpg"
+}, {
+    "fn": "Queen",
+    "em": "q.jackson@gmail.com",
+    "psw": "love4me",
+    "phr": "users\/2.jpg"
+}]
